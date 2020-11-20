@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+I'm a Software Engineering student at the University of Puerto Rico-Mayaguez. 
+Besides coding for exams and homework, I also code for fun. If you like any project  please reach out.
+
+📫 reach me: joshua.santiago14@upr.edu
 
 <!--
 **jSantiago318/jSantiago318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

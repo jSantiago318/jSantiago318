@@ -3,7 +3,9 @@ I'm a Software Engineering student.
 Besides coding for exams and homework, I also code for fun. If you like any project  please reach out.
 
 📫 Reach me: joshua.santiago14@upr.edu
+
 ⚡ My website: https://jsantiago318.github.io/
+
 🎓 Sophmore at University of Puerto Rico - Mayaguez
 <!--
 **jSantiago318/jSantiago318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

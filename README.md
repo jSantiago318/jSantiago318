@@ -4,7 +4,7 @@ Besides coding for exams and homework, I also code for fun. If you like any proj
 
 📫 Reach me: joshua.santiago14@upr.edu
 
-⚡ My website: https://jsantiago318.github.io/ (In development)
+⚡ My website: (In development)
 
 🎓 Sophmore at University of Puerto Rico - Mayaguez
 <!--

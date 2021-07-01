@@ -6,7 +6,7 @@ Besides coding for exams and homework, I also code for fun. If you like any proj
 
 ⚡ My website: (In development)
 
-🎓 Sophmore at University of Puerto Rico - Mayaguez
+🎓 3rd year student at University of Puerto Rico - Mayaguez
 <!--
 **jSantiago318/jSantiago318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

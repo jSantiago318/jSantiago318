@@ -1,23 +1,25 @@
-### Hi there 👋 
-I'm a Software Engineering student.
-Besides coding for exams and homework, I also code for fun. If you like any project  please reach out.
+<h2> Hi, I'm Joshua! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p><em>Studying Software Engineering at <a href="https://www.uprm.edu/">University of Puerto Rico at Mayaguez</a></br>
+</em></p>
 
-📫 Reach me: joshua.santiago14@upr.edu
 
-⚡ My website: (In development)
+### A little more about me...  
 
-🎓 Third year student at University of Puerto Rico - Mayaguez
-<!--
-**jSantiago318/jSantiago318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const joshua = {
+    pronouns: "he" | "him",
+    code: [Javascript, Python, Java],
+    tools: [React, Node, Docker],
+    architecture: ["machine-learning"],
+    research: {
+                goal: "Implement Open Source projects to improve public transportation",
+                contribution: "Implement and test Open Source projects",
+                palce: "University of Mayaguez at Puerto Rico"
+        },
+    contact: {
+                email: "joshua.santiago14@upr.edu",
+                dribble: "https://dribbble.com/Joshua318",
+                linkedin: "www.linkedin.com/in/josantiagoiba"    
+        }
+}
+```

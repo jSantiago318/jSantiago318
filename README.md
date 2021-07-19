@@ -14,7 +14,7 @@ const joshua = {
     research: {
                 goal: "Implement Open Source projects to improve public transportation",
                 contribution: "Implement and test Open Source projects",
-                palce: "University of Mayaguez at Puerto Rico"
+                location: "University of Mayaguez at Puerto Rico"
         },
     contact: {
                 email: "joshua.santiago14@upr.edu",

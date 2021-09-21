@@ -9,7 +9,7 @@
 const joshua = {
     pronouns: "he" | "him",
     code: [Javascript, Python, Java],
-    tools: [React, Node, Docker, VS Code],
+    tools: [React Native, VS-Code],
     research: {
                 goal: "Implement Open Source projects to improve public transportation",
                 contribution: "Implement and test Open Source projects",

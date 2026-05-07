@@ -5,7 +5,7 @@
   <em>Software Engineering Student @ Holberton School · Former Undergraduate Researcher @ UPRM</em>
 </p>
 
-<!-- Tech Badges -->
+<p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
@@ -13,13 +13,14 @@
 <img src="https://img.shields.io/badge/Phaser-ff6600?style=for-the-badge&logo=phaser&logoColor=white" alt="Phaser" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</p>
 
 <hr />
 
 ### 🚀 Key Projects
 
-- **Typing Kitties (TKIT)** — Browser-based typing game built with **Phaser 3** and **React**. Features persistent storage via **Supabase**.
-- **Travel Transit Tracker**(ARCHIVED) — Cross-platform mobile app published to the **App Store** and **Google Play**. Delivered live transit feeds to riders as part of research at **UPRM**.
+- **Typing Kitties (TKIT)** — Browser-based typing game built with **Phaser 3** and **React**. Features persistent storage via **Supabase** and a vintage CRT aesthetic.
+- **Travel Transit Tracker** — Cross-platform mobile app published to the **App Store** and **Google Play**. Delivered live transit feeds to riders as part of a federally funded research initiative at **UPRM**.
 - **OneBusAway (OBA)** — Open-source transit ecosystem using **Traccar** and **TransitClock** for real-time data. Engineered REST API-connected backends to improve transit data accuracy.
 
 ### 🧠 Currently Learning
@@ -30,7 +31,7 @@
 
 ### 📊 GitHub Stats
 
-![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=jSantiago318&show_icons=true&count_private=true&theme=dark)
+[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=jSantiago318&show_icons=true&count_private=true&theme=dark)](https://github.com/jSantiago318)
 
 <hr />
 

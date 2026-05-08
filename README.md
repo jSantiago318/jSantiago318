@@ -19,7 +19,7 @@
 
 ### 🚀 Key Projects
 
-- **Typing Kitties (TKIT)** — Browser-based typing game built with **Phaser 3** and **React**. Features persistent storage via **Supabase** and a vintage CRT aesthetic.
+- **Typing Kitties (TKIT)** — Browser-based typing game built with **Phaser 3** and **React**. Features persistent storage via **Supabase**.
 - **Travel Transit Tracker(ARCHIVED)** — Cross-platform mobile app published to the **App Store** and **Google Play**. Delivered live transit feeds to riders as part of a federally funded research initiative at **UPRM**.
 - **OneBusAway (OBA)** — Open-source transit ecosystem using **Traccar** and **TransitClock** for real-time data. Engineered REST API-connected backends to improve transit data accuracy.
 

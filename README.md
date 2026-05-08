@@ -30,8 +30,10 @@
 - Multiplayer backend architecture with **Elixir / Phoenix**
 
 ### 📊 GitHub Stats
-![Total Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/jSantiago318&query=$.public_repos&label=Public%20Repos&style=for-the-badge&color=0f80c1&logo=github)
-<hr />
+<p>
+<img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jSantiago318/YOUR_REPOS_GIST_ID/raw/repos.json&style=for-the-badge&logo=github" alt="Total Repos" />
+<img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jSantiago318/1fb18af6a780633d5364b309544de85c/raw/commits.json&style=for-the-badge&logo=github" alt="Total Commits" />
+</p>
 
 <p align="center">
   <em>Open to opportunities · <a href="mailto:joshuasantiago111@gmail.com">joshuasantiago111@gmail.com</a></em>

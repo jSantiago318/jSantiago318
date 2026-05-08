@@ -31,8 +31,7 @@
 
 ### 📊 GitHub Stats
 <p>
-<img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jSantiago318/YOUR_REPOS_GIST_ID/raw/repos.json&style=for-the-badge&logo=github" alt="Total Repos" />
-<img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jSantiago318/1fb18af6a780633d5364b309544de85c/raw/commits.json&style=for-the-badge&logo=github" alt="Total Commits" />
+<img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jSantiago318/3adfaadb43fdeffd80bfd915bff6ab3b/raw/repos.json&style=for-the-badge&logo=github" alt="Total Repos" /><img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jSantiago318/1fb18af6a780633d5364b309544de85c/raw/commits.json&style=for-the-badge&logo=github" alt="Total Commits" />
 </p>
 
 <p align="center">

@@ -30,9 +30,7 @@
 - Multiplayer backend architecture with **Elixir / Phoenix**
 
 ### 📊 GitHub Stats
-
-[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=jSantiago318&show_icons=true&count_private=true&theme=dark)](https://github.com/jSantiago318)
-
+![Total Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/jSantiago318&query=$.public_repos&label=Public%20Repos&style=for-the-badge&color=0f80c1&logo=github)
 <hr />
 
 <p align="center">

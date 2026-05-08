@@ -1,0 +1,39 @@
+name: Count Total Commits
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  count:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Count commits and update Gist
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
+        run: |
+          TOTAL=0
+          PAGE=1
+          while true; do
+            REPOS=$(curl -s -H "Authorization: token $GH_TOKEN" \
+              "https://api.github.com/user/repos?per_page=100&page=$PAGE&type=all" \
+              | jq -r '.[].full_name')
+            [ -z "$REPOS" ] && break
+            for REPO in $REPOS; do
+              COUNT=$(curl -s -H "Authorization: token $GH_TOKEN" \
+                "https://api.github.com/repos/$REPO/commits?author=jSantiago318&per_page=1" \
+                -I | grep -oP 'page=\K[0-9]+(?=>; rel="last")' || echo 0)
+              TOTAL=$((TOTAL + COUNT))
+            done
+            PAGE=$((PAGE + 1))
+          done
+          PAYLOAD=$(jq -n \
+            --arg msg "$TOTAL" \
+            '{"schemaVersion":1,"label":"Total Commits","message":$msg,"color":"0f80c1"}')
+          curl -s -X PATCH \
+            -H "Authorization: token $GH_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d "{\"files\":{\"commits.json\":{\"content\":$(echo $PAYLOAD | jq -Rs .)}}}" \
+            "https://api.github.com/gists/$GIST_ID"
